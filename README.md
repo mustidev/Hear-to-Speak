@@ -5,7 +5,7 @@ This is a desktop application developed to learn and practice the pronunciation 
 
 ## KEYS 
 
-[![LinkedIn](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)]([link](https://www.linkedin.com/in/mustafa8demir/)) 
+[![LinkedIn](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/mustafa8demir/) 
 
 
 
