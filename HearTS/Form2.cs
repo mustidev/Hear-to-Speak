@@ -75,7 +75,7 @@ namespace HearTS
         {
             // Your subscription key and service region
 
-            string subscriptionKey = "37acc756bb794815b919566626818017";
+            string subscriptionKey = "Your_Subscription_Key";
             string serviceRegion = "eastus";
 
 

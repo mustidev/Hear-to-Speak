@@ -90,7 +90,7 @@ namespace HearTS
             randomButton = buttons[rand.Next(buttons.Length)];
 
             // Azure Speech Services kullanmak için gerekli olan kimlik bilgileri
-            string subscriptionKey = "37acc756bb794815b919566626818017";
+            string subscriptionKey = "Your_Subscription_Key";
             string serviceRegion = "eastus";
 
             var config = SpeechConfig.FromSubscription(subscriptionKey, serviceRegion);

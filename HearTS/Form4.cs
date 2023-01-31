@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.CognitiveServices.Speech;
-//using Microsoft.CognitiveServices.Speech.Audio;
 using Firebase.Database;
 using Firebase.Database.Query;
 
@@ -53,7 +52,7 @@ namespace HearTS
             
 
             // Azure Speech Services kullanmak için gerekli olan kimlik bilgileri
-            var subscriptionKey = "37acc756bb794815b919566626818017";   
+            var subscriptionKey = "Your_Subscription_Key";   
             var region = "eastus";
 
             var config = SpeechConfig.FromSubscription(subscriptionKey, region);
