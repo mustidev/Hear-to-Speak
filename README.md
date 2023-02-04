@@ -9,6 +9,14 @@ Hear To Speak is an desktop application like a word game which provides users to
 
 This application is made using by C# Language on Visual Studio platform including Microsoft Azure Speech Services and Firebase Realtime Database services.
 
+```csharp
+using System.Windows.Forms;
+using Microsoft.CognitiveServices.Speech;
+using Firebase.Database;
+using Firebase.Database.Query;
+
+```
+
 ## CONTENTS 
 
 ![image](https://www.linkpicture.com/q/picture_1675541460444.png)
