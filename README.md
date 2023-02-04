@@ -20,10 +20,14 @@ Then you can complete the steps and creat the resource. After create the resourc
 ![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.08.26.jpeg)
 ## DOWNLOAD 
 
-You can download the setup file form [here](https://drive.google.com/drive/folders/1KXulqEoTlYojuCza5GMs-CJN-Wq0Eqd8?usp=sharing).
+You can download the setup file form [here](https://drive.google.com/drive/folders/1KXulqEoTlYojuCza5GMs-CJN-Wq0Eqd8?usp=sharing). After downloading the file you can setup the **.exe** file and complete the installation.
 
 ## LINKS
+Thanks for following me on Github and LinkedIn.
+
 [![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/mustafa8demir/) 
+
+[![Github](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png)](https://github.com/mustidev) 
 
 
 
