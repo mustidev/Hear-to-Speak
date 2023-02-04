@@ -3,8 +3,13 @@ This is a desktop application developed to learn and practice the pronunciation 
 
 ## DEFINITION
 
+Hear To Speak is an desktop application like a word game which provides users to learn how to pronounce Turkish words. Application has 3 menus.The first menu allows you to listen to the Turkish voice-overs of the words by clicking the words on the buttons.The second menu aims to find the listened word by clicking the correct word on buttons.In the third menu, the user is expected to speak the word on the screen in Turkish.If the user speaks correctly, it prints the "Doğru!" message on the screen.If not, then it ask to say it again.
+
 ## CONTENTS 
 
+![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.49.27.jpeg)  ![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.50.41.jpeg)
+
+![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.51.08.jpeg)  ![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.52.29.jpeg)
 
 
 ## KEYS 
