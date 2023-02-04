@@ -25,9 +25,7 @@ You can download the setup file form [here](https://drive.google.com/drive/folde
 ## LINKS
 Thanks for following me on Github and LinkedIn.
 
-[![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/mustafa8demir/) 
-
-[![Github](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png)](https://github.com/mustidev) 
+[![LinkedIn](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png)](https://www.linkedin.com/in/mustafa8demir/)  [![Github](https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Github-icon.png)](https://github.com/mustidev) 
 
 
 
