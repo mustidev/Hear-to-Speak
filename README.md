@@ -5,6 +5,10 @@ This is a desktop application developed to learn and practice the pronunciation 
 
 Hear To Speak is an desktop application like a word game which provides users to learn how to pronounce Turkish words. Application has 3 menus.The first menu allows you to listen to the Turkish voice-overs of the words by clicking the words on the buttons.The second menu aims to find the listened word by clicking the correct word on buttons.In the third menu, the user is expected to speak the word on the screen in Turkish.If the user speaks correctly, it prints the "Doğru!" message on the screen.If not, then it ask to say it again.
 
+## TECHNOLOGIES
+
+This application is made using by C# Language on Visual Studio platform including Microsoft Azure Speech Services and Firebase Realtime Database services.
+
 ## CONTENTS 
 
 ![image](https://www.linkpicture.com/q/picture_1675541460444.png)
