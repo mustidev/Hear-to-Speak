@@ -7,10 +7,7 @@ Hear To Speak is an desktop application like a word game which provides users to
 
 ## CONTENTS 
 
-![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.49.27.jpeg)   ![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.56.13.jpeg)
-
-
-![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.51.08.jpeg)  ![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.52.29.jpeg)
+![image](https://www.linkpicture.com/q/picture_1675541460444.png)
 
 
 ## KEYS 
