@@ -25,6 +25,10 @@ Then you can complete the steps and creat the resource. After create the resourc
 
 You can download the setup file form [here](https://drive.google.com/drive/folders/1KXulqEoTlYojuCza5GMs-CJN-Wq0Eqd8?usp=sharing). After downloading the file you can setup the **.exe** file and complete the installation.
 
+## AUTHOR
+
+**Mustafa Demir © 2023**
+
 ## LINKS
 Thanks for following me on Github and LinkedIn.
 
