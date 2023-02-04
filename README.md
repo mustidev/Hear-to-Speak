@@ -12,7 +12,7 @@ You need the create a **[Microsoft Azure Services](https://portal.azure.com/#cre
 After creation of Azure account, go to console and select the create resource on the left panel.The follow the next instructions:
 **Create resource >> AI and Machine Learning >> Speech.**
 
-![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.24.03.jpeg)
+![image](https://www.linkpicture.com/q/WhatsApp-Image-2023-02-04-at-22.24.03_1.jpeg)
 
 Then you can complete the steps and creat the resource. After create the resource , you might acces the keys and endpoints which includes your ***"Subscription_Key"**** and ***"Subscription_Region"*** that you need the add your code. These need to be added to **Form2.cs**, **Form3.cs** and **Form4.cs** pages.
 
